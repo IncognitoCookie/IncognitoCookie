@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer programming.
 - 🌱 I’m a young adult learning as much as I can about computing and computer sciencea.
 - 💞️ I’m not looking to collaborate
-- 📫 you can reach me by email at sebastianfontainesorensen@gmail.com.
+- 📫 you can reach me by email.
   --> Don't expect immediate replies, I check my email once or twice a week excluding holiday's and holiday breaks
 
 <!---
